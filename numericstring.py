@@ -1,5 +1,5 @@
 try:
   num=float(input())
-  print("Yes")
+  print("yes")
 except:
   print("No")
